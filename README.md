@@ -1,3 +1,3 @@
 # test-repo
 
-Hi everyone Kyle wrote this.
+Hi everyone, Kyle wrote this.
